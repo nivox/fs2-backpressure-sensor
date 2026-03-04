@@ -3,7 +3,7 @@ val scala3Version = "3.3.6"
 val scala2Version = "2.13.16"
 val javaVersion = "11"
 
-val fs2Version = "3.12.0"
+val fs2Version = "3.12.2"
 val catsEffectVersion = "3.6.3"
 val munitVersion = "1.1.1"
 val munitCatsEffectVersion = "2.1.0"
