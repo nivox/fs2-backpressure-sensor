@@ -5,7 +5,7 @@ val javaVersion = "11"
 
 val fs2Version = "3.12.2"
 val catsEffectVersion = "3.6.3"
-val munitVersion = "1.1.1"
+val munitVersion = "1.2.4"
 val munitCatsEffectVersion = "2.1.0"
 
 inThisBuild(
