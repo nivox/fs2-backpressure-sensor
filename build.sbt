@@ -1,6 +1,6 @@
 // Scala versions
 val scala3Version = "3.3.7"
-val scala2Version = "2.13.18"
+val scala2Version = "3.9.0"
 val javaVersion = "11"
 
 val fs2Version = "3.12.2"
