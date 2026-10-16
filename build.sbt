@@ -1,12 +1,12 @@
 // Scala versions
-val scala3Version = "3.3.7"
+val scala3Version = "3.3.8"
 val scala2Version = "2.13.18"
 val javaVersion = "11"
 
-val fs2Version = "3.12.2"
-val catsEffectVersion = "3.6.3"
-val munitVersion = "1.2.4"
-val munitCatsEffectVersion = "2.1.0"
+val fs2Version = "3.14.0"
+val catsEffectVersion = "3.6.4"
+val munitVersion = "1.3.6"
+val munitCatsEffectVersion = "2.2.1"
 
 inThisBuild(
   List(
